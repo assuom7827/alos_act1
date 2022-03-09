@@ -1,0 +1,48 @@
+
+  {
+    "id": "622863c530f0a74e926e3d99",
+    "email": "britt_colon@melbacor.vc",
+    "username": "britt90",
+    "profile": {
+      "name": "Britt Colon",
+      "company": "Melbacor",
+      "dob": "1990-06-29",
+      "address": "89 Marconi Place, Eastvale, Louisiana",
+      "location": {
+        "lat": 53.486729,
+        "long": -86.189019
+      },
+      "about": "Aliqua tempor exercitation fugiat irure. Officia et voluptate Lorem nulla dolore labore ea laboris esse culpa elit nisi."
+    },
+    "apiKey": "a1350a86-3ab5-4fe8-9a47-c896184b74dc",
+    "roles": [
+      "guest",
+      "admin"
+    ],
+    "createdAt": "2013-03-26T09:29:19.638Z",
+    "updatedAt": "2013-03-27T09:29:19.638Z"
+  },
+  {
+    "id": "622863c5105f89353ee024b8",
+    "email": "stein_sellers@digitalus.haus",
+    "username": "stein90",
+    "profile": {
+      "name": "Stein Sellers",
+      "company": "Digitalus",
+      "dob": "1990-02-08",
+      "address": "66 Love Lane, Dragoon, Delaware",
+      "location": {
+        "lat": 49.678748,
+        "long": 105.217725
+      },
+      "about": "Veniam consectetur incididunt deserunt ad sunt aliqua. Nostrud quis exercitation deserunt enim eu."
+    },
+    "apiKey": "c6ad8ff9-9221-479c-b85b-937e1847826b",
+    "roles": [
+      "guest",
+      "owner"
+    ],
+    "createdAt": "2011-07-20T18:30:38.660Z",
+    "updatedAt": "2011-07-21T18:30:38.660Z"
+  }
+
