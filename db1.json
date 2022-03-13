@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "title": "Linux commands",
+      "title": "Linux commands top 10",
       "author": "moussa",
       "id": 2
     },
@@ -22,6 +22,11 @@
       "title": "Redhat server",
       "author": "habib",
       "id": 6
+    },
+    {
+      "title": "Docker initroduction",
+      "author": "Mansour",
+      "id": 7
     }
   ],
   "comments": [
@@ -29,6 +34,16 @@
       "message": "trop bien ce message",
       "postId": "5",
       "id": 1
+    },
+    {
+      "message": "cest interessant",
+      "postId": "7",
+      "id": 2
+    },
+    {
+      "message": "Bravo, continuez.....",
+      "postId": "7",
+      "id": 3
     }
   ],
   "profile": {
